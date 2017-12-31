@@ -11,11 +11,13 @@ My vision is to also build a corresponding website that includes an interactive 
 
 ### 1. Security
 #### 1.1 Roles
+The application needs to have at least two initial roles created, User and Administrator.
 ##### 1.1.1 Create Role
 ##### 1.1.2 Read Role
 ##### 1.1.3 Update Role
 ##### 1.1.4 Delete Role
 #### 1.2 Profile
+Module needed to manage all the users accounts.
 ##### 1.2.1 Create Profile
 ###### 1.2.1.1 User Details
 ###### 1.2.1.2 Personal Details
@@ -26,18 +28,25 @@ My vision is to also build a corresponding website that includes an interactive 
 ##### 1.2.4 Delete Profile
 
 ### 2. Story Seats
+Module needed to create the virtual rooms with all the properties it involves.
 #### 2.1 Rooms
+![Rooms](https://i.imgur.com/wzGpI1O.png)
+Module that will allow the administrator to create the needed rooms.
 ##### 2.1.1 Create Room
 ##### 2.1.2 Read Room
 ##### 2.1.3 Update Room
 ##### 2.1.4 Delete Room
 #### 2.2 Seats
+![Seats](https://i.imgur.com/0DZozsb.png)
+Module that will allow the administrator to create and drag the seats in a default canvas of a room.
 ##### 2.2.1 Create Seat
 ###### 2.2.1.1 Place position of seat on Map
 ##### 2.2.2 Read Seat
 ##### 2.2.3 Update Seat
 ##### 2.2.4 Delete Seat
 #### 2.3 Stories
+![Stories](https://i.imgur.com/Lh0RnkI.png)
+Module that will allow the administrator to review and edit the different stories in each of the seats.
 #### 2.3.1 Create Story
 ##### 2.3.1.1 Write 100 character summary
 ##### 2.3.1.2 Write extended interview
@@ -48,12 +57,14 @@ My vision is to also build a corresponding website that includes an interactive 
 #### 2.3.5 Delete Story
 
 ### 3. Plates Module
+Module needed to upload the different plate styles from where the user could select to place his order.   
 #### 3.1 Plates Design
 ##### 3.1.1 Create Design
 ##### 3.1.2 Read Design
 ##### 3.1.3 Update Design
 ##### 3.1.4 Delete Design
 #### 3.2 Reviews
+Module needed to verify and edit the posted reviews in case needed
 ##### 3.2.1 Read Review
 ##### 3.2.2 Approve Review
 #### 3.3 Plates Order
@@ -63,6 +74,7 @@ My vision is to also build a corresponding website that includes an interactive 
 #### 3.3.4 Ship Order
 
 ### 4. Inventory
+Module needed to limit the raw materials nneded to produce and ship the plates.
 ##### 4.1 Create Asset
 ##### 4.2 Read Asset
 ##### 4.3 Update Asset
@@ -119,6 +131,14 @@ SSL certificate implemented in the Tomcat Server
 
 ### -Technologies
 Java Spring-Boot project running on an embedded Tomcat server, with a MySQL Database Server
+
+## Balsamiq Mockups
+https://balsamiq.com/
+**-User:** Mapirisoft
+**-Key:** eJzzzU/OLi0odstPdypNr6rxTSzILMoszk8rqTEyMrA0MDYyMDCocTYEkgBUQA4f
+
+## ArgoUML
+http://argouml.tigris.org/
 
 ## Class Diagram
 

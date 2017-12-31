@@ -133,7 +133,7 @@ SSL certificate implemented in the Tomcat Server
 Java Spring-Boot project running on an embedded Tomcat server, with a MySQL Database Server
 
 ## Balsamiq Mockups
-https://balsamiq.com/
+https://balsamiq.com/  
 **-User:** Mapirisoft  
 **-Key:** eJzzzU/OLi0odstPdypNr6rxTSzILMoszk8rqTEyMrA0MDYyMDCocTYEkgBUQA4f  
 

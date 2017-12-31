@@ -70,7 +70,10 @@ My vision is to also build a corresponding website that includes an interactive 
 
 ## Use Cases: User
 
+![Users](https://i.imgur.com/0M2ccAk.png)
+
 ### 1. Security
+![Login](https://i.imgur.com/AD8clMh.png)
 #### 1.1 Profile
 ##### 1.1.1 Create Profile
 ##### 1.1.2 Update Profile
@@ -78,8 +81,11 @@ My vision is to also build a corresponding website that includes an interactive 
 
 ### 2. Story Seats
 #### 2.1 Navigate Rooms
+![Rooms](https://i.imgur.com/wzGpI1O.png)
 #### 2.2 Navigate Seats
+![Seats](https://i.imgur.com/0DZozsb.png)
 #### 2.3 Stories
+![Stories](https://i.imgur.com/Lh0RnkI.png)
 #### 2.3.1 Create Story
 ##### 2.3.1.1 Write 100 character summary
 ##### 2.3.1.2 Write extended interview
@@ -90,6 +96,9 @@ My vision is to also build a corresponding website that includes an interactive 
 
 ### 3. Plates Module
 #### 3.1 Order Plate
+![Select](https://i.imgur.com/GGg65DZ.png)
+![Style](https://i.imgur.com/QiK1c3d.png)
+![Order](https://i.imgur.com/YnNcw44.png)
 #### 3.2 Track Plate
 #### 3.3 Return Plate
 #### 3.4 Write Review

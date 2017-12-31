@@ -7,6 +7,8 @@ My vision is to also build a corresponding website that includes an interactive 
 
 ## Use Cases: Administrator
 
+![Administrator](https://i.imgur.com/fpjel24.png)
+
 ### 1. Security
 #### 1.1 Roles
 ##### 1.1.1 Create Role
@@ -47,17 +49,18 @@ My vision is to also build a corresponding website that includes an interactive 
 
 ### 3. Plates Module
 #### 3.1 Plates Design
-##### 3.1 Create Design
-##### 3.2 Read Design
-##### 3.3 Update Design
-##### 3.4 Delete Design
+##### 3.1.1 Create Design
+##### 3.1.2 Read Design
+##### 3.1.3 Update Design
+##### 3.1.4 Delete Design
 #### 3.2 Reviews
 ##### 3.2.1 Read Review
 ##### 3.2.2 Approve Review
-#### 3.3 Validate Payment
-#### 3.4 Authorize Order
-#### 3.5 Fulfill Order
-#### 3.6 Ship Order
+#### 3.3 Plates Order
+#### 3.3.1 Validate Payment
+#### 3.3.2 Authorize Order
+#### 3.3.3 Fulfill Order
+#### 3.3.4 Ship Order
 
 ### 4. Inventory
 ##### 4.1 Create Asset
@@ -101,6 +104,9 @@ PayPal, Credit Card, Visa Checkout and MasterPass
 
 ### -Architecture
 RESTfull oriented project hosted on AWS, to allow cross platform future clients development
+
+### -Security
+SSL certificate implemented in the Tomcat Server
 
 ### -Technologies
 Java Spring-Boot project running on an embedded Tomcat server, with a MySQL Database Server

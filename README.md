@@ -30,14 +30,14 @@ Module needed to manage all the users accounts.
 ### 2. Story Seats
 Module needed to create the virtual rooms with all the properties it involves.
 #### 2.1 Rooms
-![Rooms](https://i.imgur.com/wzGpI1O.png)
+![Rooms](https://i.imgur.com/wzGpI1O.png)  
 Module that will allow the administrator to create the needed rooms.
 ##### 2.1.1 Create Room
 ##### 2.1.2 Read Room
 ##### 2.1.3 Update Room
 ##### 2.1.4 Delete Room
 #### 2.2 Seats
-![Seats](https://i.imgur.com/0DZozsb.png)
+![Seats](https://i.imgur.com/0DZozsb.png)  
 Module that will allow the administrator to create and drag the seats in a default canvas of a room.
 ##### 2.2.1 Create Seat
 ###### 2.2.1.1 Place position of seat on Map
@@ -45,7 +45,7 @@ Module that will allow the administrator to create and drag the seats in a defau
 ##### 2.2.3 Update Seat
 ##### 2.2.4 Delete Seat
 #### 2.3 Stories
-![Stories](https://i.imgur.com/Lh0RnkI.png)
+![Stories](https://i.imgur.com/Lh0RnkI.png)  
 Module that will allow the administrator to review and edit the different stories in each of the seats.
 #### 2.3.1 Create Story
 ##### 2.3.1.1 Write 100 character summary

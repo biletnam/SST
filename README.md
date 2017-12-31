@@ -134,8 +134,8 @@ Java Spring-Boot project running on an embedded Tomcat server, with a MySQL Data
 
 ## Balsamiq Mockups
 https://balsamiq.com/
-**-User:** Mapirisoft
-**-Key:** eJzzzU/OLi0odstPdypNr6rxTSzILMoszk8rqTEyMrA0MDYyMDCocTYEkgBUQA4f
+**-User:** Mapirisoft  
+**-Key:** eJzzzU/OLi0odstPdypNr6rxTSzILMoszk8rqTEyMrA0MDYyMDCocTYEkgBUQA4f  
 
 ## ArgoUML
 http://argouml.tigris.org/

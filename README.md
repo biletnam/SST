@@ -17,6 +17,7 @@ The application needs to have at least two initial roles created, User and Admin
 ##### 1.1.3 Update Role
 ##### 1.1.4 Delete Role
 #### 1.2 Profile
+![Imgur](https://i.imgur.com/fMkjntm.png)  
 Module needed to manage all the users accounts.
 ##### 1.2.1 Create Profile
 ###### 1.2.1.1 User Details
@@ -30,14 +31,14 @@ Module needed to manage all the users accounts.
 ### 2. Story Seats
 Module needed to create the virtual rooms with all the properties it involves.
 #### 2.1 Rooms
-![Rooms](https://i.imgur.com/wzGpI1O.png)  
+![Imgur](https://i.imgur.com/QzUhep4.png)  
 Module that will allow the administrator to create the needed rooms.
 ##### 2.1.1 Create Room
 ##### 2.1.2 Read Room
 ##### 2.1.3 Update Room
 ##### 2.1.4 Delete Room
 #### 2.2 Seats
-![Seats](https://i.imgur.com/0DZozsb.png)  
+![Imgur](https://i.imgur.com/WJoygrB.png)  
 Module that will allow the administrator to create and drag the seats in a default canvas of a room.
 ##### 2.2.1 Create Seat
 ###### 2.2.1.1 Place position of seat on Map
@@ -45,7 +46,7 @@ Module that will allow the administrator to create and drag the seats in a defau
 ##### 2.2.3 Update Seat
 ##### 2.2.4 Delete Seat
 #### 2.3 Stories
-![Stories](https://i.imgur.com/Lh0RnkI.png)  
+![Imgur](https://i.imgur.com/TXSuoxv.png)  
 Module that will allow the administrator to review and edit the different stories in each of the seats.
 #### 2.3.1 Create Story
 ##### 2.3.1.1 Write 100 character summary
@@ -57,6 +58,7 @@ Module that will allow the administrator to review and edit the different storie
 #### 2.3.5 Delete Story
 
 ### 3. Plates Module
+![Imgur](https://i.imgur.com/H79QNJE.png)  
 Module needed to upload the different plate styles from where the user could select to place his order.   
 #### 3.1 Plates Design
 ##### 3.1.1 Create Design
@@ -99,13 +101,13 @@ Module needed to limit the raw materials nneded to produce and ship the plates.
 #### 2.2 Navigate Seats
 ![Imgur](https://i.imgur.com/ZxB4V0k.png)
 #### 2.3 Stories
-![Imgur](https://i.imgur.com/FvAQfx3.png)
+![Imgur](https://i.imgur.com/7Vu9EEB.png)
 #### 2.3.1 Create Story
 ##### 2.3.1.1 Write 100 character summary
 ##### 2.3.1.2 Write extended interview
 ##### 2.3.1.3 Upload audio
 #### 2.3.2 Navigate Stories
-![Imgur](https://i.imgur.com/7Vu9EEB.png)
+![Imgur](https://i.imgur.com/FvAQfx3.png)
 #### 2.3.3 Update Story
 #### 2.3.4 Delete Story
 
@@ -115,6 +117,7 @@ Module needed to limit the raw materials nneded to produce and ship the plates.
 ![Imgur](https://i.imgur.com/OTjeX0t.png)
 ![Imgur](https://i.imgur.com/Ixl0q74.png)
 #### 3.2 Track Plate
+![Imgur](https://i.imgur.com/QFtLPv8.png)
 #### 3.3 Return Plate
 #### 3.4 Write Review
 

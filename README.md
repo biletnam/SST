@@ -85,9 +85,10 @@ Module needed to limit the raw materials nneded to produce and ship the plates.
 ![Users](https://i.imgur.com/0M2ccAk.png)
 
 ### 1. Security
-![Login](https://i.imgur.com/AD8clMh.png)
+![Login](https://i.imgur.com/Bj2AAfF.png)
 #### 1.1 Profile
 ##### 1.1.1 Create Profile
+![Create](https://i.imgur.com/IBrnnJC.png)
 ##### 1.1.2 Update Profile
 ##### 1.1.3 Close Profile
 

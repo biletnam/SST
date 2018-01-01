@@ -11,7 +11,7 @@ My vision is to also build a corresponding website that includes an interactive 
 
 ### 1. Security
 #### 1.1 Roles
-![Imgur](https://i.imgur.com/Fo2ClBV.png)
+![Imgur](https://i.imgur.com/Fo2ClBV.png)  
 The application needs to have at least two initial roles created, User and Administrator.
 ##### 1.1.1 Create Role
 ##### 1.1.2 Read Role

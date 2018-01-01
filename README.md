@@ -70,20 +70,21 @@ Module needed to verify and edit the posted reviews in case needed
 ##### 3.2.1 Read Review
 ##### 3.2.2 Approve Review
 #### 3.3 Plates Order
+![Imgur](https://i.imgur.com/Tp937GR.png)  
 #### 3.3.1 Validate Payment
 #### 3.3.2 Authorize Order
 #### 3.3.3 Fulfill Order
 #### 3.3.4 Ship Order
 
 ### 4. Inventory
-Module needed to limit the raw materials nneded to produce and ship the plates.
+![Imgur](https://i.imgur.com/KbnuP5t.png)  
+Module needed to limit the raw materials needed to produce and ship the plates.
 ##### 4.1 Create Asset
 ##### 4.2 Read Asset
 ##### 4.3 Update Asset
 ##### 4.4 Delete Asset
 
 ## Use Cases: User
-
 ![Users](https://i.imgur.com/0M2ccAk.png)
 
 ### 1. Security

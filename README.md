@@ -5,6 +5,44 @@
 I'm starting a community memory collection/fundraising project for the non profit historic theatre I work at called "Story Seats." Essentially, locals can purchase a personalized seat plate expressing a narrative memory they've had in the theatre i.e., "Ralph and Barb were the only ones here on Nov. 21, 1955 but they played the movie anyway", "Susie poured tomato soup off the balcony during a screening of Psycho." You get the gist.  
 My vision is to also build a corresponding website that includes an interactive seat map where people can click through and listen to full interviews of these memories. I have the story collection under control, but my tech skills are horrendous (my iPhone 4 is doing great, thanks for asking). I'm looking for existing user-friendly platforms that I could use to build this, someone who would be interested in the project (it would pay), or at the very least, a ballpark quote for what it would cost to hire someone to make this so I can include it in some grant budgets.   
 
+## Use Cases: User
+![Users](https://i.imgur.com/0M2ccAk.png)
+
+### 1. Security
+![Login](https://i.imgur.com/Bj2AAfF.png)
+#### 1.1 Profile
+![Imgur](https://i.imgur.com/wofEKE4.png)
+##### 1.1.1 Create Profile
+![Create](https://i.imgur.com/IBrnnJC.png)
+##### 1.1.2 Update Profile
+##### 1.1.3 Close Profile
+
+### 2. Story Seats
+#### 2.1 Navigate Rooms
+![Imgur](https://i.imgur.com/3UsUlzv.png)
+#### 2.2 Navigate Seats
+![Imgur](https://i.imgur.com/ZxB4V0k.png)
+#### 2.3 Stories
+![Imgur](https://i.imgur.com/7Vu9EEB.png)
+#### 2.3.1 Create Story
+##### 2.3.1.1 Write 100 character summary
+##### 2.3.1.2 Write extended interview
+##### 2.3.1.3 Upload audio
+#### 2.3.2 Navigate Stories
+![Imgur](https://i.imgur.com/FvAQfx3.png)
+#### 2.3.3 Update Story
+#### 2.3.4 Delete Story
+
+### 3. Plates Module
+#### 3.1 Order Plate
+![Imgur](https://i.imgur.com/7Vu9EEB.png)
+![Imgur](https://i.imgur.com/OTjeX0t.png)
+![Imgur](https://i.imgur.com/Ixl0q74.png)
+#### 3.2 Track Plate
+![Imgur](https://i.imgur.com/QFtLPv8.png)
+#### 3.3 Return Plate
+#### 3.4 Write Review
+
 ## Use Cases: Administrator
 
 ![Administrator](https://i.imgur.com/fpjel24.png)
@@ -84,44 +122,6 @@ Module needed to limit the raw materials needed to produce and ship the plates.
 ##### 4.2 Read Asset
 ##### 4.3 Update Asset
 ##### 4.4 Delete Asset
-
-## Use Cases: User
-![Users](https://i.imgur.com/0M2ccAk.png)
-
-### 1. Security
-![Login](https://i.imgur.com/Bj2AAfF.png)
-#### 1.1 Profile
-![Imgur](https://i.imgur.com/wofEKE4.png)
-##### 1.1.1 Create Profile
-![Create](https://i.imgur.com/IBrnnJC.png)
-##### 1.1.2 Update Profile
-##### 1.1.3 Close Profile
-
-### 2. Story Seats
-#### 2.1 Navigate Rooms
-![Imgur](https://i.imgur.com/3UsUlzv.png)
-#### 2.2 Navigate Seats
-![Imgur](https://i.imgur.com/ZxB4V0k.png)
-#### 2.3 Stories
-![Imgur](https://i.imgur.com/7Vu9EEB.png)
-#### 2.3.1 Create Story
-##### 2.3.1.1 Write 100 character summary
-##### 2.3.1.2 Write extended interview
-##### 2.3.1.3 Upload audio
-#### 2.3.2 Navigate Stories
-![Imgur](https://i.imgur.com/FvAQfx3.png)
-#### 2.3.3 Update Story
-#### 2.3.4 Delete Story
-
-### 3. Plates Module
-#### 3.1 Order Plate
-![Imgur](https://i.imgur.com/7Vu9EEB.png)
-![Imgur](https://i.imgur.com/OTjeX0t.png)
-![Imgur](https://i.imgur.com/Ixl0q74.png)
-#### 3.2 Track Plate
-![Imgur](https://i.imgur.com/QFtLPv8.png)
-#### 3.3 Return Plate
-#### 3.4 Write Review
 
 ## Non-Functional Requirements
 

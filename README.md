@@ -87,6 +87,7 @@ Module needed to limit the raw materials nneded to produce and ship the plates.
 ### 1. Security
 ![Login](https://i.imgur.com/Bj2AAfF.png)
 #### 1.1 Profile
+![Imgur](https://i.imgur.com/wofEKE4.png)
 ##### 1.1.1 Create Profile
 ![Create](https://i.imgur.com/IBrnnJC.png)
 ##### 1.1.2 Update Profile
@@ -94,24 +95,25 @@ Module needed to limit the raw materials nneded to produce and ship the plates.
 
 ### 2. Story Seats
 #### 2.1 Navigate Rooms
-![Rooms](https://i.imgur.com/wzGpI1O.png)
+![Imgur](https://i.imgur.com/3UsUlzv.png)
 #### 2.2 Navigate Seats
-![Seats](https://i.imgur.com/0DZozsb.png)
+![Imgur](https://i.imgur.com/ZxB4V0k.png)
 #### 2.3 Stories
-![Stories](https://i.imgur.com/Lh0RnkI.png)
+![Imgur](https://i.imgur.com/FvAQfx3.png)
 #### 2.3.1 Create Story
 ##### 2.3.1.1 Write 100 character summary
 ##### 2.3.1.2 Write extended interview
 ##### 2.3.1.3 Upload audio
 #### 2.3.2 Navigate Stories
+![Imgur](https://i.imgur.com/7Vu9EEB.png)
 #### 2.3.3 Update Story
 #### 2.3.4 Delete Story
 
 ### 3. Plates Module
 #### 3.1 Order Plate
-![Select](https://i.imgur.com/GGg65DZ.png)
-![Style](https://i.imgur.com/QiK1c3d.png)
-![Order](https://i.imgur.com/YnNcw44.png)
+![Imgur](https://i.imgur.com/7Vu9EEB.png)
+![Imgur](https://i.imgur.com/OTjeX0t.png)
+![Imgur](https://i.imgur.com/Ixl0q74.png)
 #### 3.2 Track Plate
 #### 3.3 Return Plate
 #### 3.4 Write Review

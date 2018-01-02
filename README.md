@@ -8,120 +8,36 @@ My vision is to also build a corresponding website that includes an interactive 
 ## Use Cases: User
 ![Users](https://i.imgur.com/0M2ccAk.png)
 
-### 1. Security
-![Login](https://i.imgur.com/Bj2AAfF.png)
-#### 1.1 Profile
-![Imgur](https://i.imgur.com/wofEKE4.png)
-##### 1.1.1 Create Profile
-![Create](https://i.imgur.com/IBrnnJC.png)
-##### 1.1.2 Update Profile
-##### 1.1.3 Close Profile
-
-### 2. Story Seats
-#### 2.1 Navigate Rooms
-![Imgur](https://i.imgur.com/3UsUlzv.png)
-#### 2.2 Navigate Seats
-![Imgur](https://i.imgur.com/ZxB4V0k.png)
-#### 2.3 Stories
-![Imgur](https://i.imgur.com/7Vu9EEB.png)
-#### 2.3.1 Create Story
-##### 2.3.1.1 Write 100 character summary
-##### 2.3.1.2 Write extended interview
-##### 2.3.1.3 Upload audio
-#### 2.3.2 Navigate Stories
-![Imgur](https://i.imgur.com/FvAQfx3.png)
-#### 2.3.3 Update Story
-#### 2.3.4 Delete Story
-
-### 3. Plates Module
-#### 3.1 Order Plate
-![Imgur](https://i.imgur.com/7Vu9EEB.png)
-![Imgur](https://i.imgur.com/OTjeX0t.png)
-![Imgur](https://i.imgur.com/Ixl0q74.png)
-#### 3.2 Track Plate
-![Imgur](https://i.imgur.com/QFtLPv8.png)
-#### 3.3 Return Plate
-#### 3.4 Write Review
+###1.Security
+**a.Login:** An account is needed to access SST, but guest access is also available  
+**b.Create Profile:** Users can register into the application  
+**c.User Profile:** Registered users would be able to add their address and payment details. Only registered user will be able to save and place orders of their personalized stories plates  
+###2.Story Seats
+**a.Rooms:** User can see the available rooms of the theater with their own information. User can click the “Enter” option to see a detailed map of each of the available  
+**b.Seats:** Once in a Room, user can select a seat that will take them to a more detailed view of that seat and the public stories  
+**c.Stories:** In the Story Seats view, the user can see a visual representation of the posted stories that have been made public. User can hover the mouse on the story to see a written version of the interview and can click on top of it to listen to the interview  
+**d.My Stories:** Once user clicks on the “Add” option of the previous screen, they can create and upload their own story, which will be stored under the “My Stories” tab. If desired, user can start the process of ordering a “Personalized Story Plate”   
+###3.Orders
+**a.Plate Style Selection:** If the user clicks the “Purchase” option in one of their stories, then the application will show them a preview of all the available plates styles, so they can select the one they would like to order  
+**b.Review My Order:** Once the user selects the style of the plate they would like to order, they will be redirected to the “Review Order” screen. Where they can fill the missing information (if needed) and finally submit their order  
+**c.My Orders:** After placing the order, the user will be redirected to “My Orders” screen. Where they can track and manage their order  
 
 ## Use Cases: Administrator
 
 ![Administrator](https://i.imgur.com/fpjel24.png)
 
-### 1. Security
-#### 1.1 Roles
-![Imgur](https://i.imgur.com/Fo2ClBV.png)  
-The application needs to have at least two initial roles created, User and Administrator.
-##### 1.1.1 Create Role
-##### 1.1.2 Read Role
-##### 1.1.3 Update Role
-##### 1.1.4 Delete Role
-#### 1.2 Profile
-![Imgur](https://i.imgur.com/fMkjntm.png)  
-Module needed to manage all the users accounts.
-##### 1.2.1 Create Profile
-###### 1.2.1.1 User Details
-###### 1.2.1.2 Personal Details
-###### 1.2.1.3 Address Details
-###### 1.2.1.4 Payment Details
-##### 1.2.2 Read Profile
-##### 1.2.3 Update Profile
-##### 1.2.4 Delete Profile
+###1.Security
+**a.Roles:** Admin can activate and manage permissions given to a Role  
+**b.Profile:** Admin can manage all the registered user profiles, changing their information and activating or deactivating accounts  
+###2.Story Seats
+**a.Rooms:** Admin can add and edit available rooms of the theater (Required data for room needs to be specified)  
+**b.Seats:** Admin can add seats and arrange them in the desired order in a default canvas  
+**c.Stories:** Admin can manage all the available stories placed in one seat. Adding a title, style, description and audio file for each of them. Admin can also mark one story as public, so everyone should be able to see it on the “Stories” screen. Admin can also manage all the stories posted by the users  
+###3.Inventory
+**a.Inventory:** Admin can manage the required “Materials” to produce a plate. I.e. the plates used to print the stories for then ship them to the users. This will help the system preventing fulfilling orders that cannot be fulfilled  
+**b.Plates:** Admin can manage the available styles and prices of plates the user can select from when placing an order  
+**c.Manage Orders:** Admin can mark an order as approve, fulfilled, shipped and delivered when needed. This could be linked to the shipping provider API if needed to keep status updated. This screen will be the final step before and order is processed  
 
-### 2. Story Seats
-Module needed to create the virtual rooms with all the properties it involves.
-#### 2.1 Rooms
-![Imgur](https://i.imgur.com/QzUhep4.png)  
-Module that will allow the administrator to create the needed rooms.
-##### 2.1.1 Create Room
-##### 2.1.2 Read Room
-##### 2.1.3 Update Room
-##### 2.1.4 Delete Room
-#### 2.2 Seats
-![Imgur](https://i.imgur.com/WJoygrB.png)  
-Module that will allow the administrator to create and drag the seats in a default canvas of a room.
-##### 2.2.1 Create Seat
-###### 2.2.1.1 Place position of seat on Map
-##### 2.2.2 Read Seat
-##### 2.2.3 Update Seat
-##### 2.2.4 Delete Seat
-#### 2.3 Stories
-![Imgur](https://i.imgur.com/TXSuoxv.png)  
-Module that will allow the administrator to review and edit the different stories in each of the seats.
-#### 2.3.1 Create Story
-##### 2.3.1.1 Write 100 character summary
-##### 2.3.1.2 Write extended interview
-##### 2.3.1.3 Upload audio
-#### 2.3.2 Approve Story
-#### 2.3.3 Read Story
-#### 2.3.4 Update Story
-#### 2.3.5 Delete Story
-
-### 3. Plates Module
-![Imgur](https://i.imgur.com/H79QNJE.png)  
-Module needed to upload the different plate styles from where the user could select to place his order.   
-#### 3.1 Plates Design
-##### 3.1.1 Create Design
-##### 3.1.2 Read Design
-##### 3.1.3 Update Design
-##### 3.1.4 Delete Design
-#### 3.2 Reviews
-Module needed to verify and edit the posted reviews in case needed
-##### 3.2.1 Read Review
-##### 3.2.2 Approve Review
-#### 3.3 Plates Order
-![Imgur](https://i.imgur.com/Tp937GR.png)  
-#### 3.3.1 Validate Payment
-#### 3.3.2 Authorize Order
-#### 3.3.3 Fulfill Order
-#### 3.3.4 Ship Order
-
-### 4. Inventory
-![Imgur](https://i.imgur.com/KbnuP5t.png)  
-Module needed to limit the raw materials needed to produce and ship the plates.
-##### 4.1 Create Asset
-##### 4.2 Read Asset
-##### 4.3 Update Asset
-##### 4.4 Delete Asset
 
 ## Non-Functional Requirements
 

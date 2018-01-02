@@ -5,9 +5,9 @@
 I'm starting a community memory collection/fundraising project for the non profit historic theatre I work at called "Story Seats." Essentially, locals can purchase a personalized seat plate expressing a narrative memory they've had in the theatre i.e., "Ralph and Barb were the only ones here on Nov. 21, 1955 but they played the movie anyway", "Susie poured tomato soup off the balcony during a screening of Psycho." You get the gist.  
 My vision is to also build a corresponding website that includes an interactive seat map where people can click through and listen to full interviews of these memories. I have the story collection under control, but my tech skills are horrendous (my iPhone 4 is doing great, thanks for asking). I'm looking for existing user-friendly platforms that I could use to build this, someone who would be interested in the project (it would pay), or at the very least, a ballpark quote for what it would cost to hire someone to make this so I can include it in some grant budgets.  
 
-[<img width="50" src="https://i.imgur.com/om64gVt.png"> Users Module](https://www.dropbox.com/s/i0mxrmg1qcj2x69/SST_1.0_User.pdf "Interactive Prototype for the Users Module")  
+[<img width="25" src="https://i.imgur.com/om64gVt.png"> Users Module](https://www.dropbox.com/s/i0mxrmg1qcj2x69/SST_1.0_User.pdf "Interactive Prototype for the Users Module")  
 
-[<img width="50" src="https://i.imgur.com/om64gVt.png"> Administrators Module](https://www.dropbox.com/s/53bquvyaink5av4/SST_1.0_admin.pdf "Interactive Prototype for the Administrators Module")  
+[<img width="25" src="https://i.imgur.com/om64gVt.png"> Administrators Module](https://www.dropbox.com/s/53bquvyaink5av4/SST_1.0_admin.pdf "Interactive Prototype for the Administrators Module")  
 
 ## Use Cases: User
 

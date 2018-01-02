@@ -8,7 +8,7 @@ My vision is to also build a corresponding website that includes an interactive 
 ## Use Cases: User
 ![Users](https://i.imgur.com/0M2ccAk.png)
 
-###1.Security
+### 1.Security
 
 **a.Login:** An account is needed to access SST, but guest access is also available  
 
@@ -16,7 +16,7 @@ My vision is to also build a corresponding website that includes an interactive 
 
 **c.User Profile:** Registered users would be able to add their address and payment details. Only registered user will be able to save and place orders of their personalized stories plates  
 
-###2.Story Seats
+### 2.Story Seats
 
 **a.Rooms:** User can see the available rooms of the theater with their own information. User can click the “Enter” option to see a detailed map of each of the available  
 
@@ -26,7 +26,7 @@ My vision is to also build a corresponding website that includes an interactive 
 
 **d.My Stories:** Once user clicks on the “Add” option of the previous screen, they can create and upload their own story, which will be stored under the “My Stories” tab. If desired, user can start the process of ordering a “Personalized Story Plate”   
 
-###3.Orders
+### 3.Orders
 
 **a.Plate Style Selection:** If the user clicks the “Purchase” option in one of their stories, then the application will show them a preview of all the available plates styles, so they can select the one they would like to order  
 
@@ -38,18 +38,18 @@ My vision is to also build a corresponding website that includes an interactive 
 
 ![Administrator](https://i.imgur.com/fpjel24.png)
 
-###1.Security
+### 1.Security
 
 **a.Roles:** Admin can activate and manage permissions given to a Role  
 **b.Profile:** Admin can manage all the registered user profiles, changing their information and activating or deactivating accounts  
 
-###2.Story Seats
+### 2.Story Seats
 
 **a.Rooms:** Admin can add and edit available rooms of the theater (Required data for room needs to be specified)  
 **b.Seats:** Admin can add seats and arrange them in the desired order in a default canvas  
 **c.Stories:** Admin can manage all the available stories placed in one seat. Adding a title, style, description and audio file for each of them. Admin can also mark one story as public, so everyone should be able to see it on the “Stories” screen. Admin can also manage all the stories posted by the users  
 
-###3.Inventory
+### 3.Inventory
 
 **a.Inventory:** Admin can manage the required “Materials” to produce a plate. I.e. the plates used to print the stories for then ship them to the users. This will help the system preventing fulfilling orders that cannot be fulfilled  
 **b.Plates:** Admin can manage the available styles and prices of plates the user can select from when placing an order  

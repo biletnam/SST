@@ -123,14 +123,10 @@ Java Spring-Boot project running on an embedded Tomcat server, with a MySQL Data
 
 ## Aditional Files
 
-## Balsamiq Mockups
+### Balsamiq Mockups
 https://balsamiq.com/  
 **-User:** Mapirisoft  
 **-Key:** eJzzzU/OLi0odstPdypNr6rxTSzILMoszk8rqTEyMrA0MDYyMDCocTYEkgBUQA4f  
 
-## ArgoUML
+### ArgoUML
 http://argouml.tigris.org/
-
-## Class Diagram
-
-## Entity Relationship Diagram

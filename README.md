@@ -114,6 +114,15 @@ SSL certificate implemented in the Tomcat Server
 ### -Technologies
 Java Spring-Boot project running on an embedded Tomcat server, with a MySQL Database Server
 
+## Estimated Needed Hours
+
+**-Note:** This is only an estimation based on the skills of a Senior Software Engineer. Some percentage of this time should be added according to the developer skills and for testing purposes.
+
+![Imgur](https://i.imgur.com/guwsLEh.jpg)
+
+
+## Aditional Files
+
 ## Balsamiq Mockups
 https://balsamiq.com/  
 **-User:** Mapirisoft  

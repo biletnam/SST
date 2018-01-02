@@ -122,7 +122,8 @@ Java Spring-Boot project running on an embedded Tomcat server, with a MySQL Data
 
 ## Estimated Needed Hours
 
-**-Note:** This is only an estimation based on the skills of a Senior Software Engineer. Some percentage of this time should be added according to the developer skills and for testing purposes.
+**-Note:** This is only an estimation based on the skills of a Senior Software Engineer. Some percentage of this time should be added according to the developer skills and for testing purposes.  
+This estimation is only considering the development stage of the application, depending on the used technology, concurrency and selected hosting service, extra monthly expenses should be considered.   
 
 ![Imgur](https://i.imgur.com/guwsLEh.jpg)
 

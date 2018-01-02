@@ -30,7 +30,7 @@ My vision is to also build a corresponding website that includes an interactive 
 
 **b. Seats:** Once in a Room, user can select a seat that will take them to a more detailed view of that seat and the public stories  
 
-![Imgur](https://i.imgur.com/8OolLKP.png)  
+![Imgur](https://i.imgur.com/zwjLbzY.png)
 
 **c. Stories:** In the Story Seats view, the user can see a visual representation of the posted stories that have been made public. User can hover the mouse on the story to see a written version of the interview and can click on top of it to listen to the interview  
 
@@ -76,7 +76,7 @@ My vision is to also build a corresponding website that includes an interactive 
 
 **b. Seats:** Admin can add seats and arrange them in the desired order in a default canvas  
 
-![Imgur](https://i.imgur.com/aXs7W7q.png)  
+![Imgur](https://i.imgur.com/dXQu5l0.png)  
 
 **c. Stories:** Admin can manage all the available stories placed in one seat. Adding a title, style, description and audio file for each of them. Admin can also mark one story as public, so everyone should be able to see it on the “Stories” screen. Admin can also manage all the stories posted by the users  
 
